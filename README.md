@@ -34,6 +34,7 @@ AdLabs operates on a continuous, multi-round autonomous loop (`server.ts`):
 4.  **Simulation:** The `sim.ts` engine scores the generated text for psychological triggers (Urgency, Curiosity, Simplicity) and pits both ads against a synthetic audience.
 5.  **Evaluation:** The Evaluator declares a winner and generates a final visual creative representation.
 6.  **Action & Logging:** The system pushes the winning ad text to Google Docs/Sheets and iterates into the next round, learning from previous results.
+<img width="1489" height="704" alt="Gemini_Generated_Image_bo9mg4bo9mg4bo9m" src="https://github.com/user-attachments/assets/d72e5705-d9f7-4f25-9ac0-c227d36ee0ad" />
 
 ---
 
@@ -100,4 +101,5 @@ npm start
 
 ## 🤝 Contributing
 Contributions, issues, and feature requests are welcome! Built with ❤️ for the Sathacks 2026 hackathon.
+
 
