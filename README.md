@@ -58,7 +58,7 @@ AdLabs operates on a continuous, multi-round autonomous loop (`server.ts`):
 
 ### 1. Clone the Repository
 \`\`\`bash
-git clone https://github.com/meetp06/Sathacks.git
+git clone https://github.com/padmanabh-rathi/AdLabs
 cd Sathacks/ads-os
 \`\`\`
 
@@ -100,3 +100,4 @@ npm start
 
 ## 🤝 Contributing
 Contributions, issues, and feature requests are welcome! Built with ❤️ for the Sathacks 2026 hackathon.
+
