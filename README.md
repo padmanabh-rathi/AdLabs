@@ -1,6 +1,7 @@
 # AdLabs: Autonomous AI Marketing OS 🚀
 
-**Autonomous AI-Powered Ad Optimization Platform** — Built at SatHacks 2026
+**Autonomous AI-Powered Ad Optimization Platform**      <br>
+Built At : Adsystems 2026: Autonomous Growth Agents Hackathon (https://luma.com/myrkot1r)
 
 AdLabs is a multi-agent system that autonomously researches markets, generates ad copy, and simulates consumer behavior to optimize marketing performance — all in real time. Instead of spending thousands on A/B testing, AdLabs lets AI write, test, and score its own ads using synthetic consumer simulations and live external data.
 
@@ -101,5 +102,6 @@ npm start
 
 ## 🤝 Contributing
 Contributions, issues, and feature requests are welcome! Built with ❤️ for the Sathacks 2026 hackathon.
+
 
 
